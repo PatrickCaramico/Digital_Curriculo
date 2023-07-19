@@ -1,0 +1,82 @@
+.main-title{
+    margin-top: 120px;
+    margin-left: 120px;
+    font-family: sans-serif;
+    font-size: 18px;
+    justify-content: center;
+}
+
+.main-title a{
+    color: green;
+    text-decoration: none;
+}
+
+.main-title-text{
+    text-transform: uppercase;
+    justify-content: center;
+}
+
+.sub-text{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.sub-text u{
+    text-decoration-color: green;
+
+}
+
+.obj-text{
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+.sub-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px; 
+}
+
+.sub-title u{
+    text-decoration-color: green;
+}
+
+.habily-text{
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+.edu-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.edu-title u{
+    text-decoration-color: green;
+}
+
+.edu-text{
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+.exp-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.exp-title u{
+    text-decoration-color: green;
+}
+
+.exp-text{
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+
+
+
