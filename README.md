@@ -1,17 +1,17 @@
-# Digital_Curriculo
+# Digital_Resume
 
-Projeto Digital_Curriculo: esse projeto foi desenvolvido em HTML e CSS, o intuito dele é mostrar de uma forma diferente meu curriculo, eu fiz esse modelo digital para praticar meus estudos tanto de HTML e CSS.
+"Digital_Resume Project": This project was developed using HTML and CSS. Its objective is to present my resume in a different way. I created this digital template to practice my studies in both HTML and CSS.
 
-# Images Projeto: 
+# Project Images
 
-Aqui está a imagem do projeto ; 
+Here is the project image;
 
 <img aligh="center" src="Images Digital Curriculo/Tela inicial.png" width="800px">
 
 
-# Trecho do Código
+# Code Snippet
 
-Trecho de códigos do HTML e CSS;
+Code snippets in HTML and CSS;
 
 #
 HTML
@@ -25,8 +25,8 @@ CSS
 
 #
 
-# Link Projeto
-**Link para acessar o projeto;**
+# Project Link
+**Link to access the project:**
 https://patrickcaramico.github.io/Digital_Curriculo/
 
 
