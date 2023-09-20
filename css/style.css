@@ -1,7 +1,9 @@
 *{
     font-family: sans-serif;
     font-size: 24px;
+    /* padding: 5px; */
 }
+
 
 .linha-horizontal {
     border-top: 1px solid #000;
@@ -43,3 +45,7 @@
     text-align: center;
     padding: 20px;
 }
+
+
+
+
