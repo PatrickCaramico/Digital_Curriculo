@@ -6,7 +6,7 @@
 
 Here is the project image;
 
-<img aligh="center" src="Images Digital Curriculo/Tela inicial.png" width="800px">
+<img aligh="center" src="Images Digital Curriculo/Curriculo_tela.jpeg" width="800px">
 
 
 # Code Snippet
