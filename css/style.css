@@ -1,51 +1,38 @@
-*{
-    font-family: sans-serif;
-    font-size: 20px;
-    /* padding: 5px; */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6;
 }
 
-
-.linha-horizontal {
-    border-top: 1px solid #000;
-    margin-top: 30px;
-    width: 70%; /* Defina a largura desejada, por exemplo, 50% para torná-la mais curta */
-    margin: 0 auto; /* Isso centralizará a linha horizontal na página */
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
 }
 
-.main-title a {
-    color: blue;
-    /* text-decoration: none; */
-    height: 15px;
+.section-title {
+    color: #1f2937;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
 }
 
-.habily-text > li {
-    /* margin: 30px; */
-    margin-left: 35px;
+.list-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1rem;
 }
 
-.edu-text > li {
-    margin-left: 35px;
+.list-item-icon {
+    color: #4b5563;
+    margin-right: 0.75rem;
+    font-size: 1.25rem;
 }
 
-.curso-text > li {
-    margin-left: 35px;
+.section_p {
+	font-weight: bold;
 }
-
-.exp-text > li {
-    margin-left: 35px;
-}
-
-.obj-text > p{
-    margin: 0 auto;
-    text-align: center;
-}
-
-.dados_center, .sub-title{
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-}
-
-
-
-
