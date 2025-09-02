@@ -1,32 +1,42 @@
-# Digital_Resume
+# Currículo Digital
+Este é um projeto de currículo digital desenvolvido para demonstrar minhas habilidades em desenvolvimento web. O objetivo é criar uma versão interativa e responsiva do meu perfil profissional, servindo também como um portfólio para minhas competências em front-end.
 
-"Digital_Resume Project": This project was developed using HTML and CSS. Its objective is to present my resume in a different way. I created this digital template to practice my studies in both HTML and CSS.
+## Funcionalidades
+Design Responsivo: A interface se adapta perfeitamente a dispositivos móveis e desktops.
 
-# Project Images
+* Informações Detalhadas: Apresenta todas as seções importantes de um currículo, incluindo resumo, experiência profissional, habilidades e educação.
 
-Here is the project image;
+* Links Diretos: Inclui links de fácil acesso para meu e-mail, LinkedIn e GitHub.
 
-<img aligh="center" src="Images Digital Curriculo/Curriculo_tela.jpeg" width="800px">
+* Tecnologias Modernas: Construído com ferramentas e frameworks populares no mercado.
 
+## Tecnologias Utilizadas
+* **HTML5:** Para a estrutura semântica do documento.
 
-# Code Snippet
+* **CSS3:** Para a estilização personalizada e organização do layout.
 
-Code snippets in HTML and CSS;
+* **Tailwind CSS:** Um framework de CSS de primeira linha que permite um design rápido e moderno através de classes utilitárias.
 
-#
-HTML
-<img aligh="center" src="Images Digital Curriculo/Tela HTML.png" width="800px">
+## Como Visualizar 💻
+Para ver o projeto, basta clonar este repositório e abrir o arquivo ` curriculo_digital.html ` em seu navegador de preferência.
 
-#
-
-#
-CSS
-<img aligh="center" src="Images Digital Curriculo/Tela CSS.png" width="800px">
-
-#
-
-# Project Link
-**Link to access the project:**
-https://patrickcaramico.github.io/Digital_Curriculo/
+`` 
+git clone [https://github.com/SeuUsuario/NomeDoRepositorio.git](https://github.com/SeuUsuario/NomeDoRepositorio.git)
+cd NomeDoRepositorio
+`` 
 
 
+Abra o arquivo ` curriculo_digital.html ` no seu navegador.
+
+## Como Visualizar online 🚀
+
+Para ver o projeto online, basta clica no link a baixo: 
+
+1. [VIsualizar Curriculo](https://digital-curriculum.netlify.app/)
+
+## Contato
+Para qualquer dúvida ou oportunidade, sinta-se à vontade para entrar em contato:
+
+* E-mail: patrickcaramico88@gmail.com
+
+* LinkedIn: Seu perfil do LinkedIn
